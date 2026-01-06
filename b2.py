@@ -1,1 +1,1 @@
-print('hellow b2')
+print(' hellow b2' )
